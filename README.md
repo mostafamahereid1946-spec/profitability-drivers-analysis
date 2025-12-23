@@ -56,10 +56,11 @@ The dashboard highlights:
 
 ## 📊 Power BI Dashboard
 
-![Power BI Dashboard](Images/dashboard.png)
+![Power BI Dashboard](Images/Dashboard.png)
 
 ---
 
 ## 👤 Author
 **Mostafa Mahereid**  
 Aspiring Data Analyst | Python | SQL | Power BI
+
